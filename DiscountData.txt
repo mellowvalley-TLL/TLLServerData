@@ -17,3 +17,4 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=9999,diamonds
 HasDeadline=false
+
