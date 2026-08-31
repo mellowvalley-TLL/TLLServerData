@@ -15,16 +15,6 @@ IsIslandSpecific=true
 Islands=City
 ShowOldCost=true
 HasCostOvrwrite=true
-CostOverwrite=9999,diamonds
+CostOverwrite=450,diamonds
 HasDeadline=false
-;
-ID=Monsters/Monster_potbelly
-MarketSortersID=monsters
-IsIslandSpecific=true
-Islands=EM
-ShowOldCost=true
-HasCostOvrwrite=true
-CostOverwrite=30,diamonds
-HasDeadline=true
-Deadline=09/01/2026 12:00:00
 
