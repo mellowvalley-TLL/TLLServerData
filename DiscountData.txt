@@ -17,14 +17,3 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=9999,diamonds
 HasDeadline=false
-;
-ID=Monsters/Monster_banno_rare
-MarketSortersID=monsters
-IsIslandSpecific=true
-Islands=EM
-ShowOldCost=true
-HasCostOvrwrite=true
-CostOverwrite=30,diamonds
-HasDeadline=true
-Deadline=09/01/2026 12:00:00
-;
