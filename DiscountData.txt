@@ -7,7 +7,7 @@ ShowOldCost=true
 HasCostOvrwrite=true
 CostOverwrite=200,diamonds
 HasDeadline=true
-Deadline=12/31/2025 03:00:00 AM
+Deadline=09/01/2026 03:00:00 AM
 ;
 ID=Monsters/Monster_wibbler_young
 MarketSortersID=monsters
