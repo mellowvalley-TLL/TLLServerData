@@ -244,15 +244,10 @@ Monsters/Monster_mammott
 Monsters/Monster_tweedle
 Monsters/Monster_maw
 Monsters/Monster_cybop
-Monsters/Monster_oaktopus
-Monsters/Monster_fwog_undof
 Monsters/Monster_dandidoo
-Monsters/Monster_quibble
 Monsters/Monster_furcorn
 Monsters/Monster_spunge
 Monsters/Monster_trox
-Monsters/Monster_pummel
 Monsters/Monster_clamble
-Monsters/Monster_shellbeat
 Monsters/Monster_deedge
 
