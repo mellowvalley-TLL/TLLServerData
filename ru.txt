@@ -126,7 +126,7 @@ Monsters/Monster_drumpler_young=Юный Ударнщик
 Monsters/Monster_drumpler_young_bio=Данные отсутствуют. Приходите позже.
 
 Monsters/Monster_maw=Устолос
-Monsters/Monster_maw_bio=Данные отсутствуют. Приходите позже.
+Monsters/Monster_maw_bio=Безглазый Устолос - совершенное сочетание Элементов Холода и Воды. Его густой мех представляет собой один большой рецептор и защищает жидкое тело Устолоса от переохлаждения. Устолосы весьма горласты. И языкасты.
 Monsters/Monster_maw_rare=Редкий Устолос
 Monsters/Monster_maw_rare_bio=Данные отсутствуют. Приходите позже.
 Monsters/Monster_maw_young=Юный Устолос
