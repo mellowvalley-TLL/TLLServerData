@@ -1227,6 +1227,9 @@ Monsters/Monster_potbelly
 Monsters/Monster_toejammer
 Monsters/Monster_mammott
 Monsters/Monster_tweedle
+Monsters/Monster_maw
+Monsters/Monster_dandidoo
+Monsters/Monster_quibble
 -
 decorations:
 Decoration/Decoration_test
