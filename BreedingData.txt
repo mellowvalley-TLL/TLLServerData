@@ -133,15 +133,10 @@ Monsters/Monster_mammott 85
 Monsters/Monster_tweedle 85
 Monsters/Monster_maw 70
 Monsters/Monster_cybop 70
-Monsters/Monster_oaktopus 70
-Monsters/Monster_fwog_undof 70
 Monsters/Monster_dandidoo 70
-Monsters/Monster_quibble 70
 Monsters/Monster_furcorn 70
 Monsters/Monster_spunge 60
 Monsters/Monster_trox 60
-Monsters/Monster_pummel 60
 Monsters/Monster_clamble 50
-Monsters/Monster_shellbeat 40
 Monsters/Monster_deedge 40
 
