@@ -1230,7 +1230,6 @@ Monsters/Monster_mammott
 Monsters/Monster_tweedle
 Monsters/Monster_maw
 Monsters/Monster_cybop
-Monsters/Monster_fwog_undof
 Monsters/Monster_dandidoo
 Monsters/Monster_furcorn
 Monsters/Monster_spunge
