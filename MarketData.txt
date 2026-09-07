@@ -1234,6 +1234,7 @@ Monsters/Scaratar diamonds=1000
 Monsters/Loodvigg diamonds=1000
 Monsters/Uuduk diamonds=1000
 Monsters/Whimmzies diamonds=1000
+Monsters/Monster_potbelly_composer
 -
 decorations:
 Decoration/Decoration_test
