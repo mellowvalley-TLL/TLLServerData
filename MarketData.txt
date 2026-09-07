@@ -1231,7 +1231,7 @@ Monsters/Monster_tweedle
 Monsters/Monster_maw
 Monsters/Monster_cybop
 Monsters/Monster_oaktopus
-Monsters/Monster_fwog
+Monsters/Monster_fwog_undof
 Monsters/Monster_dandidoo
 Monsters/Monster_quibble
 Monsters/Monster_furcorn
