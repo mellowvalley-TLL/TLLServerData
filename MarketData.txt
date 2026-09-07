@@ -1259,7 +1259,7 @@ Structures/Structure_crafter
 Structures/Structure_timemachine
 Structures/Structure_bakery
 Structures/Structure_jukebox
-Structures/Structure_breeding_undof
+Structures/Structure_breeding
 -
 deco_paths:
 Desert_path1
