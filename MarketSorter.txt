@@ -77,7 +77,7 @@ structures:structures
 composer:composer
 ;
 Composer
-monsters:monsters=btn_shop_monsters,monster_rares=btn_shop_rares,monster_secret=btn_shop_secrets
+monsters:monsters=btn_shop_monsters
 decorations:decorations=btn_shop_deco_all,deco_trees=btn_shop_deco_trees,deco_obstacles=btn_shop_deco_obstacles
 structures:structures
 composer:composer
