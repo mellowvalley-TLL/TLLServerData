@@ -1252,6 +1252,7 @@ structures:
 Structures/Structure_crafter
 Structures/Structure_timemachine
 Structures/Structure_bakery
+Structures/Structure_jukebox
 -
 deco_paths:
 Desert_path1
