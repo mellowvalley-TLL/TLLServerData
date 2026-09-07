@@ -2,6 +2,7 @@ MonsterName Cost Elements TimeToBreed FoodNeeded CoinProduction@ProductionRate@M
 
 Monsters/Monster_toejammer coins=400 water 300 5 coins=1@120@coins=60 Natural toejammer,toejammer 0 0
 Monsters/Monster_potbelly coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 4 0
+Monsters/Monster_potbelly_composer coins=400 plant 300 5 coins=1@120@coins=60 Natural potbelly,potbelly 4 0
 Monsters/Monster_tweedle coins=400 air 300 5 coins=1@120@coins=60 Natural tweedle,tweedle 0 0
 Monsters/Monster_flootfly coins=400 faerie 14400 10 coins=1@120@coins=90 Magical flootfly,flootfly 6 0
 Monsters/Monster_wadee diamonds=60 water@faerie 36000 20 coins=1@80@coins=150 Magical wadee,wadee 6 0
