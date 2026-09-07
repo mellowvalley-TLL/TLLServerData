@@ -91,6 +91,8 @@ Monsters/Monster_flootfly=Floot Fly
 Monsters/Monster_flootfly_bio=The mystical Floot Fly is one of the most common monsters to stumble upon throughout the Lost Landscapes, as it's one of the friendliest monsters around! Floot-Flies love to throw tea parties in the most bizarre locations too! Invites to a tea party are always revered and accepted gleefully, as it's a great place to socialize and gossip!
 Monsters/Monster_clackula=Clackula
 Monsters/Monster_clackula_bio=Dapper Clackula doesn't have a mouth of its own with which to chitter-chatter about its many cultured interests, so the Bone Elemental leaves all the yammering to its loquacious little hands. If only they'd behave! When the lanky gentle-Mon's appendages get too snippy with dinner guests, it delivers the quickest of pin-point pinches to each chatterbox with its dainty fangs. While not enough to cause any pain, it's certainly enough to send a message: keep it classy!
+Monsters/Monster_potbelly_composer=Брюшок
+Monsters/Monster_potbelly_composer_bio=Взрослый Брюшок - громкое и причудливое создание, постоянно болтающее всякую ерунду всем, кто находится по близости и может его услышать. В то время как монстры с удовольствием остаются слушать его, Брюшок выпрыгивает из своего горшка, а затем на столько сильно погружается в свою болтавню, даже не замечая как его корневые усики обвивают нетерпеливых слушателей. К счастью, с недавнего дня монстры научились держаться подальше или мягко напоминают Брюшку, и тогда всё идёт гладко.
 
 #ADULT OFFICIAL DOUBLES#
 Monsters/Monster_furcorn=Furcorn
