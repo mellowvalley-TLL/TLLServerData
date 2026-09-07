@@ -134,7 +134,7 @@ Monsters/Monster_tweedle 85
 Monsters/Monster_maw 70
 Monsters/Monster_cybop 70
 Monsters/Monster_oaktopus 70
-Monsters/Monster_fwog 70
+Monsters/Monster_fwog_undof 70
 Monsters/Monster_dandidoo 70
 Monsters/Monster_quibble 70
 Monsters/Monster_furcorn 70
