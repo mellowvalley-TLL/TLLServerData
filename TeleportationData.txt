@@ -199,3 +199,7 @@ Monsters/Monster_schmoochle= 0
 Monsters/Monster_mammott= 0
 Monsters/Monster_spunge= 0
 ;
+Composer 43200 18
+Monsters/Monster_mammott=Monsters/Monster_mammott_young 18
+;
+
