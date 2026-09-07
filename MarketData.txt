@@ -1049,17 +1049,17 @@ Decoration/Decoration_sign_water
 ;
 EgyptPipes
 monsters:
-Monsters/Bonapetite diamonds=1000
-Monsters/Congle diamonds=1000
-Monsters/Gnarls diamonds=1000
-Monsters/Krillby diamonds=1000
-Monsters/Pladdie diamonds=1000
-Monsters/Buzzinga diamonds=1000
-Monsters/Shlep diamonds=1000
-Monsters/Scaratar diamonds=1000
-Monsters/Loodvigg diamonds=1000
-Monsters/Uuduk diamonds=1000
-Monsters/Whimmzies diamonds=1000
+Monsters/Bonapetite Relic=300
+Monsters/Congle Relic=150
+Monsters/Gnarls Relic=250
+Monsters/Krillby Relic=200
+Monsters/Pladdie Relic=200
+Monsters/Buzzinga Relic=300
+Monsters/Shlep Relic=350
+Monsters/Scaratar Relic=1250
+Monsters/Loodvigg Relic=1300
+Monsters/Uuduk Relic=100
+Monsters/Whimmzies Relic=100
 -
 decorations:
 Decoration/Decoration_test
@@ -1140,10 +1140,11 @@ Noches
 monsters:
 Monsters/Monster_furcorn
 Monsters/Monster_ffydill
+-
 structures:
 Structures/Structure_crafter
-Structures/Structure_timemachine
 Structures/Structure_bakery
+Structures/Structure_timemachine
 ;
 Ohio
 decorations:
