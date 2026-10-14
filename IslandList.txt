@@ -10,4 +10,3 @@ Knottshurr
 Meduza
 GM
 dream
-Composer
