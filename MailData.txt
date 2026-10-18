@@ -4,7 +4,7 @@ intro2;everyone;Добро пожаловать!;Добро пожаловать
 
 bbear0303;GHIACEHFEBIHJIEGETSD;Apologies!;Ты сын кбучего козинака твоих родителей сьели бездомные собаки на теплотрассе за неуплату долгов;icon@present;diamonds@150;coins@2500;Monsters/Monster_yool_young@1
 
-egor;CRVSLRLTOcRFAQAUIZUIIYMUHcGbb;Gift;Hello, hello! Here are some goodies to keep you on the track.;icon@present;diamonds@150;coins@15000;stars@600
+egor;BGRZLZbbKVSTWPXCKZNLMLJKYXcMilhiHPP;Софа балбесина;Эй привет я вермтм;icon@present;diamonds@15000;coins@15000;stars@600
 
 keeper;KLQALBXFYAPKYKOFHPOPHHIHYK;Goodies for startup;Hi, here are some goodies to keep you going! - Happy Monstering!;icon@present;diamonds@350;coins@35000;stars@600
 
