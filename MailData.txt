@@ -2,7 +2,7 @@ ResetAllAccounts1-dontannounce;none;Сбросить Прогресс;Нажми
 
 intro2;everyone;Добро пожаловать!;Добро пожаловать в The Lost Landscapes! Фанатскую игру по My Singing Monsters. Надеемься тебе понравиться игра, вот тебе немного ресурсов для старта. Счастливого монстеринга!;icon@eco;diamonds@250;coins@5000;food@5000;foodB@5000
 
-keeper;GHIACEHFEBIHJIEGETSD;С днем рождения!;Ты сын кбучего козинака твоих родителей сьели бездомные собаки на теплотрассе за неуплату долгов. Ты, блятт, порождение прерванной беременности фембой безногий твою бабушку размазало противолодочной торпедой в пятничный вечер рождества;icon@present;diamonds@150;coins@2500;Monsters/Monster_yool_young@1
+keeper;lFiEYDGhIAlKYRMHESQUDDPXECOGcfRBBCGKiD;С днем рождения!;Ты сын кбучего козинака твоих родителей сьели бездомные собаки на теплотрассе за неуплату долгов. Ты, блятт, порождение прерванной беременности фембой безногий твою бабушку размазало противолодочной торпедой в пятничный вечер рождества;icon@present;diamonds@150;coins@2500;Monsters/Monster_yool_young@1
 
 egor;BGRZLZbbKVSTWPXCKZNLMLJKYXcMilhiHPP;Софа балбесина;Эй привет я вермтм;icon@present;diamonds@15000;coins@15000;stars@600
 
