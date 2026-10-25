@@ -10,6 +10,9 @@ keeper;KLQALBXFYAPKYKOFHPOPHHIHYK;Goodies for startup;Hi, here are some goodies 
 
 gallium2;GJCGOWMBLCKMYWVWQHXLOLSVCH;Thanks!;Thanks for renaming your video. Heres some goodies for you!;icon@present;diamonds@5000;stars@5000;coins@5000;food@5000;foodB@5000
 
-gallium2;everyone;С Призрактаклем!;Сладость или гадость? С жутким месяцем вас! Успейте вывести Скелетыкву созревшую в этот сезон года, и не забывайте следить за своими монстро-детьми (что?);icon@present;diamonds@50;stars@50;foodB@5000
+gallium2;ever1982yone;С Призрактаклем!;Сладость или гадость? С жутким месяцем вас! Успейте вывести Скелетыкву созревшую в этот сезон года, и не забывайте следить за своими монстро-детьми (что?);icon@present;diamonds@50;stars@50;foodB@5000
 
 ResetAllAccounts1-dontannounce;ever8382yone;Сбросить Прогресс;Что-то пошло не так или хочешь начать игру с начала? Напиши мне в ЛС в Телеграмме прислав свой ID аккаунта (Находиться в настройках на экране загрузки) я пришлю тебе твой код удаления;icon@exclaim;Monsters/Monster_furcorn_young
+
+
+intro;everyщone;Немножко уточним;Этот сервер был создан на базе другово приват.сервера по TLL а именно TLLPS. Но переделанный на мой лад. Просто хотел упомянуть оригинальных авторов. Ссылку на их DS сервер я найти не смог. Так что ищите сами если надо;icon@present;diamonds@5000;stars@5000;coins@5000;food@5000;foodB@5000
